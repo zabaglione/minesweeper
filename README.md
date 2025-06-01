@@ -31,7 +31,7 @@
 
 1. リポジトリをクローン：
    ```bash
-   git clone https://github.com/yourusername/minesweeper.git
+   git clone https://github.com/zabaglione/minesweeper.git
    cd minesweeper
    ```
 
